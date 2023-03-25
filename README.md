@@ -13,7 +13,7 @@ Experimental support is also there for devices released with lower Android versi
 
 A list of documented information can be viewed at the [Droidian wiki](https://github.com/droidian/droidian/wiki)
 
-The device page is available at [device.droidian.org](https://devices.droidian.org)
+The device page is available at [devices.droidian.org](https://devices.droidian.org)
 
 The porting guide is available at [porting-guide](https://github.com/droidian/porting-guide)
 
