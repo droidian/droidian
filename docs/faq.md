@@ -37,7 +37,7 @@ Yes, Waydroid can provide a pretty much complete Android experience. Use [this](
 Yes. The install instructions can be found [here](https://flatpak.org/setup/Debian)
 
 ### Can I run KDE or Plasma Mobile?
-No
+Packages for Plasma Mobile have experimental status. See [here](gui.md#choosing-plasma-mobile) for how to install them
 
 ### Can I run Gnome or SXMO?
 No
