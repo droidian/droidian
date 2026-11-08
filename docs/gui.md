@@ -10,7 +10,7 @@ These graphical shells rely on different software stack under the hood, and prov
 
 [Phosh](https://phosh.mobi/) is the default GUI for Droidian, and therefore it is well tested and contains more bugfixes related  to the Droidian adaptation. It is a recommended choice for new users. 
 
-* Phosh is available for all supported phones, both for the **current** and **next** [versions](Droidian-versions). Images based on phosh have can be easily guessed by the image file name, for example:
+* Phosh is available for all supported phones, both for the **current** and **next** [versions](versions.md). Images based on phosh have can be easily guessed by the image file name, for example:
 
     > droidian-OFFICIAL-**phosh**-phone-volla_mimameid-api32-arm64-101.20251130_20251207.zip
 
@@ -33,11 +33,11 @@ Also, it would be a wise choice to backup all valuable data and configuration fi
 
 [Plasma Mobile](https://plasma-mobile.org/) GUI has experimental status in Droidian, which means that it may have (and highly probably has!) bugs, and is generally less polished from the Droidian adaptation point of view.
 
-* Pre-built flashable Plasma Mobile images are available for *some* supported phones, both for the **current** and **next** [versions](Droidian-versions). Images based on plasma-mobile mention `plamo-wf-experimental` in the image file name, for example:
+* Pre-built flashable Plasma Mobile images are available for *some* supported phones, both for the **current** and **next** [versions](versions.md). Images based on plasma-mobile mention `plamo-wf-experimental` in the image file name, for example:
 
     > droidian-OFFICIAL-**plamo_wf_experimental**-phone-lenovo_bronco-api32-arm64-101.20251130_20251207.zip
 
-* If you are running Droidian with Phosh, you can switch to Plasma Mobile at any time just by installing its packages (at least this works with Droidian **current** [version](Droidian-versions)):
+* If you are running Droidian with Phosh, you can switch to Plasma Mobile at any time just by installing its packages (at least this works with Droidian **current** [version](versions.md)):
 
     ```bash
     sudo apt install droidian-plamo-wf-full
