@@ -11,7 +11,7 @@ title                    : "Droidian documentation"
 description: Droidian GNU/Linux distribution documentations
 title_separator          : "|"
 description              : "Droidian GNU/Linux distribution documentation"
-url                      : "https://fiowro.github.io/droidian"
+url                      : "https://docs.droidian.org"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "droidian/droidian"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
