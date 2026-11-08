@@ -1,0 +1,8 @@
+{% if site.repository %}
+<div class="toc-github-edit" style="margin-top: 0rem; padding-top: 0.5rem; padding-left: 0.5rem; border-top: 1px solid rgba(0,0,0,0.08); font-size: 0.75em;">
+  <a href="https://github.com/{{ site.repository }}/edit/{{ site.git_branch | default: 'main' }}/{{ page.path }}" target="_blank" rel="noopener noreferrer" style="color: #6f7782; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; font-weight: bold; padding-left: 0;">
+    <i class="fab fa-fw fa-github"></i> Edit this page on GitHub
+  </a>
+</div>
+{% endif %}
+

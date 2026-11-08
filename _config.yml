@@ -1,0 +1,37 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Droidian documentation"
+description: Droidian GNU/Linux distribution documentations
+title_separator          : "|"
+description              : "Droidian GNU/Linux distribution documentation"
+url                      : "https://fiowro.github.io/droidian"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "droidian/droidian"
+#teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/emblem.png"
+#masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+#breadcrumbs              : # true, false (default)
+#words_per_minute         : 200
+enable_copy_code_button  : true # true, false (default)
+#copyright                : # "copyright" name, defaults to site.title
+#copyright_url            : # "copyright" URL, defaults to site.url
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      toc: true
+      toc_sticky: true
+      author_profile: false
+      sidebar:
+        nav: "global_toc"

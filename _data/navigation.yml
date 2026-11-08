@@ -1,0 +1,28 @@
+global_toc:
+  - title: Home
+    children:
+      - title: "Welcome to Droidian"
+        url: /
+      - title: "Droidian versions"
+        url: /docs/versions/
+
+  - title: Customization
+    children:
+      - title: "Choosing GUI"
+        url: /docs/gui/
+      - title: "Android app support"
+        url: /docs/waydroid/
+
+  - title: Tips and tricks
+    children:
+      - title: "FAQ"
+        url: /docs/faq/
+      - title: "User-collected tips"
+        url: /docs/collection/
+
+  - title: Extras
+    children:
+      - title: "Porting guide"
+        url: /docs/porting/
+      - title: "Useful tips and scripts"
+        url: /docs/tips/
