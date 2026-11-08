@@ -15,7 +15,10 @@ A list of documented information can be viewed at the [Droidian wiki](https://gi
 
 The device page is available at [devices.droidian.org](https://devices.droidian.org)
 
+Device-specific sources are available at [droidian-devices](https://github.com/droidian-devices)
+
 The porting guide is available at [porting-guide](https://github.com/droidian/porting-guide)
+
 
 ### Getting community help
 
